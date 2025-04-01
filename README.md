@@ -1,6 +1,6 @@
 # Fabricio Resende
 
-Olá! Eu sou **Fabricio Resende**, um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀
+Olá! Eu sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀
 
 ## Sobre Mim
 

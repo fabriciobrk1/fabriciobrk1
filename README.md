@@ -1,16 +1,18 @@
-## Hi there 👋
+# Fabricio Resende
 
-<!--
-**fabriciobrk1/fabriciobrk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou **Fabricio Resende**, um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Sou desenvolvedor **ASP.NET Core**, atualmente no nível **junior**. 
+- 🌱 Estou me dedicando a aprender **Blazor WebAssembly** e expandir minhas habilidades no desenvolvimento web.
+- 💡 Adoro desafios e estou sempre buscando maneiras de crescer e melhorar como profissional.
+
+## Objetivo
+
+Meu objetivo é evoluir como desenvolvedor e contribuir para projetos inovadores que fazem a diferença. 😊
+
+## Conecte-se comigo!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fabriciobresende/)
+- 📧 **Email:** fabricioresende11@hotmail.com

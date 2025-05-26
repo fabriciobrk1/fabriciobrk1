@@ -4,8 +4,8 @@ Olá! Eu sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.
 
 ## Sobre Mim
 
-- 🖥️ Sou desenvolvedor **.NET**, atualmente no nível **junior**. ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-- 🌱 Estou me dedicando a aprender **Blazor WebAssembly** e expandir minhas habilidades no desenvolvimento web. ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+- 🖥️ Sou desenvolvedor **ASP.NET CORE**, atualmente no nível **junior**. ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🌱 Estou me dedicando a aprender **Angular** e expandir minhas habilidades no desenvolvimento web. ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - 💡 Adoro desafios e estou sempre buscando maneiras de crescer e melhorar como profissional.
 
 ## Objetivo

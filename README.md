@@ -1,4 +1,4 @@
-# Fabricio Resende
+# Fabrício Resende
 
 Olá! Eu sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀
 
